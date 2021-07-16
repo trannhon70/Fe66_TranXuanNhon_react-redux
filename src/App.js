@@ -7,8 +7,8 @@ export default class App extends Component{
   render() {
     return (
       <div>
-        <BaiTapGioHangRedux />
-        {/* <BaiTapGameXuatSacRedux /> */}
+        {/* <BaiTapGioHangRedux /> */}
+        <BaiTapGameXuatSacRedux />
         {/* <BaiTapOanTuTi/> */}
       </div>
     )
