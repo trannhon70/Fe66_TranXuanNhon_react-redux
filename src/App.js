@@ -8,8 +8,8 @@ export default class App extends Component{
     return (
       <div>
         {/* <BaiTapGioHangRedux /> */}
-        <BaiTapGameXuatSacRedux />
-        {/* <BaiTapOanTuTi/> */}
+        {/* <BaiTapGameXuatSacRedux /> */}
+        <BaiTapOanTuTi/>
       </div>
     )
   }
